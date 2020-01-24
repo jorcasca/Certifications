@@ -1,0 +1,15 @@
+LAMBDA
+Funciones lambda son funciones de codigo que implementan un microservicio.
+
+Limite:
+	- 1000 llamadas concurrentes, se puede aumentar a 20000 hablando
+	con soporte.
+
+Deployment
+	- Codepipeline
+	- Boto3
+
+Monitoreo
+	- Rollbar
+
+
