@@ -1,5 +1,6 @@
-The average salary for the role of Solutions Architect at Amazon Web 
-Services (AWS) in United States is $142,000. This salary is based on 
-122 salaries submitted by LinkedIn members with the title “Solutions 
-Architect” at Amazon Web Services (AWS) in United States
+AWS criterios de diseño y mejores practicas
+
+- Enable Scalability to meet demand
+- Disposable resources instead of fixed servers
+- Automation is key
 
